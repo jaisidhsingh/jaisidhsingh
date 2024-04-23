@@ -1,4 +1,9 @@
 ### Hi there 👋
+### I'm Jaisidh Singh, a final-year undergraduate student at IIT Jodhpur, India with a major in Artificial Intelligence and Data Science.
+
+- I currently working on deep learning methods to improve visual-language reasoning.
+- I am interested in algorithmic improvements as well as optimization for improved model capacity and understanding. My previous work has touched upon these fields along with responsible AI.
+- 
 
 <!--
 **jaisidhsingh/jaisidhsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
