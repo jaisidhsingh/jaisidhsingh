@@ -1,2 +1,2 @@
 ## Hi there 👋
-🌐 Click here: <a href="https://jaisidhsingh.bearblog.dev">my website</a>.
+🌐 Get to know me through <a href="https://jaisidhsingh.github.io">my website</a>.
